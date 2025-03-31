@@ -1,0 +1,118 @@
+baseURL: https://emmysteven.com/
+languageCode: en-us
+title: Emmy Steven
+theme: ["PaperMod"]
+rssLimit: 25
+
+pagination:
+  pagerSize: 10
+
+permalinks:
+  blog: /:slug/
+
+googleAnalytics: G-DF0R2P64WT
+enableRobotsTXT: true
+enableEmoji: true
+sitemap:
+  changefreq: daily
+  priority: 0.5
+
+
+params:
+  env: production
+  title: ES
+  author: Emmy Steven
+  images: ["img/feature-image.webp"]
+  description: Emmy Steven is a community created for those who want to 10x tech writers
+  keywords: [Writing, copywriting, technical writing, tech writers, content strategy, content writing, technical writers]
+  SidebarRecentLimit: 5
+  mainSections: ["blog"]
+
+  showBreadCrumbs: false
+  showReadingTime: true
+  showShareButtons: true
+  showPostNavLinks: true
+  showFullTextinRSS: true
+  showCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  math: true
+
+  privacypolicy: /pages/privacy
+
+  label:
+    text: "Emmy Steven"
+    icon: "img/logo.webp"
+    iconHeight: 35
+
+  homeInfoParams:
+    Title: "Think. Create. Lead."
+    Content: "This is where indie hacking meets content marketing. \n
+    I give insights that move you forward and share stories that spark action. \n
+Watch me cut through the noise, build with clarity and grow with impact. \n"
+  
+  socialIcons:
+    - name: medium
+      url: https://medium.com/@emmysteven
+    - name: X
+      url: https://x.com/emmystevenx
+    - name: linkedin
+      url: https://www.linkedin.com/company/emmysteven
+    - name: dev
+      url: https://dev.to/emmysteven
+    - name: telegram
+      url: https://t.me/emmysteven
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: false
+    linkFullImages: true
+  
+  editPost:
+    URL: "https://github.com/emmysteven/mysite/edit/main/content"
+    Text: " Suggest edit"
+    appendFilePath: true
+  
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: blog
+      weight: 1
+    - identifier: podcast
+      name: Podcast
+      url: podcast
+      weight: 2
+    - identifier: archives
+      name: Archives
+      url: archives
+      weight: 3
+
+disableKinds:
+  - taxonomy
+
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: monokai
+    tabWidth: 4
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
