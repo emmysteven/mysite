@@ -20,11 +20,12 @@ sitemap:
 
 params:
   env: production
-  title: ES
+  title: Emmy Steven
   author: Emmy Steven
   images: ["img/feature-image.webp"]
-  description: Emmy Steven is a community created for those who want to 10x tech writers
-  keywords: [Writing, copywriting, technical writing, tech writers, content strategy, content writing, technical writers]
+  description: This is where indie hacking meets content marketing. Discover insights on growth, writing, and 
+              digital strategy—helping creators, founders, and marketers cut through the noise, build with clarity, and grow with impact
+  keywords: [Indie Hacking, content marketing, tech writers, content strategy, content writing]
   SidebarRecentLimit: 5
   mainSections: ["blog"]
 
