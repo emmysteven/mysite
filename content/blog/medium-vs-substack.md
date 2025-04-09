@@ -7,7 +7,7 @@ draft = false
 authors = ["Emmy Steven"]
 [cover]
 image = 'img/00-medium-vs-substack.webp'
-alt = 'Medium vs Substack | techwritas.com'
+alt = 'Medium vs Substack | emmysteven.com'
 caption = 'Medium vs Substack'
 +++
 
@@ -34,7 +34,7 @@ Let’s dive deeper into the differences and find out which platform suits your 
 <br>
 
 ### Medium
-![Medium | techwritas.com](/img/01-medium-vs-substack.webp)
+![Medium | emmysteven.com](/img/01-medium-vs-substack.webp)
 [Medium](https://medium.com) is a platform that allows anyone to share their essays without requiring a personal website, and it is open-source.
 
 Medium provides aspiring writers with an established readership, which can assist in growing your audience without the gradual process often associated with SEO.
@@ -42,7 +42,7 @@ Medium provides aspiring writers with an established readership, which can assis
 <br>
 
 ### Substack
-![Substack | techwritas.com](/img/02-medium-vs-substack.webp)
+![Substack | emmysteven.com](/img/02-medium-vs-substack.webp)
 [Substack](https://substack.com) is a digital platform that allows individuals to begin and grow a newsletter. Many writers are drawn to its features for paid newsletters, added social features, and coolness.
 
 If your Substack newsletter doesn't have engaging content that readers want to share, you'll have to create a digital marketing plan to promote it when you begin writing.
