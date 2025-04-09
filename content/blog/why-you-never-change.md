@@ -3,7 +3,7 @@ title = 'Why You Never Change'
 slug = 'why-you-never-change'
 date = 2025-01-30T16:08:25+01:00
 draft = false
-description = 'Change is hard, but staying the same is harder—eventually. Here’s why discomfort is often the push you need to grow and move forward in life.'
+description = 'Change is hard, but staying the same is harder. Here’s why discomfort is often the push you need to grow and move forward in life.'
 [cover]
 image = 'img/00-why-you-never-change.webp'
 alt = 'Why You Never Change | emmysteven.com'
