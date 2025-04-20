@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 date: 2024-07-20T06:08:25+01:00
 slug: about
 url: about
@@ -13,19 +13,28 @@ cover:
   relative: true
 ---
 
-Welcome to Emmy Steven, a vibrant and thriving tech community where passionate individuals come together to explore, learn, and share their love for all things tech!
+<img src="/img/emmysteven.webp" alt="Emmy Steven PFP" style="width:300px;"/>
 
-At Emmy Steven, we embrace the exhilarating world of technology and foster an environment that encourages collaboration, knowledge exchange, and continuous growth. Whether you're a seasoned professional, an aspiring developer, or simply someone who enjoys the wonders of technology, this community is the perfect place for you.
+I didn’t grow up thinking I’d be a founder.
 
-Join us on this exciting journey as we dive deep into the latest trends, breakthroughs, and innovations across various domains of technology. From software development and data science to artificial intelligence, cybersecurity, and beyond, our community covers a wide range of topics that fuel your curiosity and spark your creativity.
+But somewhere between writing blog posts that ranked, helping brands fix broken funnels with words, and spending late nights shipping small tools, I realized something:
 
-Here, you'll find a diverse group of like-minded individuals who are passionate about sharing their expertise, asking thought-provoking questions, and offering guidance to fellow members. Our forums, discussions, and interactive sessions provide ample opportunities for you to connect with experts, seek advice, and build meaningful relationships with fellow coders, engineers, and tech enthusiasts.
+I could build.
+I could write.
+And I could help people grow with both.
 
-In addition to our active online community, we host regular events, workshops, and webinars featuring industry experts and thought leaders. These events not only offer valuable insights but also provide an avenue for you to network with professionals, expand your knowledge base, and stay up-to-date with the ever-evolving tech landscape.
+Hey, I’m Emmy Steven, a SaaS founder and content strategist, currently building my way to $50K in Monthly Recurring Revenue.
 
-Whether you're looking to enhance your skills, stay informed about the latest trends, or simply engage in intellectually stimulating conversations, Emmy Steven is here to inspire and empower you on your tech journey. Get ready to explore, learn, collaborate, and be part of an exciting community that shares your passion for technology.
+I help brands grow through products that solve real problems and content that converts quietly. No hacks, no shortcuts, just real value and tested frameworks.
 
-Join Emmy Steven today and embark on an exciting adventure where technology knows no bounds! Together, let's push the boundaries of innovation and unlock the true potential of the digital world. Happy coding!
+Most of what I know, I learned by doing; ghostwriting for SaaS companies, running experiments that failed and then worked, and obsessing over everything from Blockchain tech to AI’s role in the next product and content revolution.
+
+This blog is where I share that journey.
+The wins. The hard lessons. The playbooks.
+For builders, writers, creators, and curious minds.
+
+If that sounds like your vibe, I hope you’ll stick around.
+You can read my latest posts, sign up for updates, or just shoot me a DM on [𝕏](https://x.com/emmystevenx) or [Telegram](https://t.me/emmysteven). I’m always down to chat with fellow builders.
 
 ### Credits
 * SSG: [Hugo](https://gohugo.io/)

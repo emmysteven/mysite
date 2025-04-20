@@ -3,6 +3,7 @@ title = 'Vibe Coding - The End of Developers'
 slug = 'vibe-coding-developers'
 date = 2025-04-10T06:08:25+01:00
 draft = false
+weight = 1
 description = 'Vibe coding is trending, but letting AI build your apps without understanding the code can lead to long-term failure. Here’s what you should know.'
 [cover]
 image = 'img/00-vibe-coding-developers.webp'

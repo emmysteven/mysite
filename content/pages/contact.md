@@ -20,7 +20,7 @@ relative = true
 
 <br/>
 
-We’re here to assist you! Whether you have a question, or a suggestion, or simply want to get in touch, feel free to use the contact form below.
+I'm here to assist you! Whether you have a question, or a suggestion, or simply want to get in touch, feel free to use the contact form below.
 <br/>
 
 Your personal information will be used solely to respond to your inquiry. We respect your privacy and will not share your information with third parties.
