@@ -86,22 +86,18 @@ menu:
       name: Blog
       url: blog
       weight: 1
-    - identifier: podcast
-      name: Podcast
-      url: podcast
-      weight: 2
     - identifier: archives
       name: Archives
       url: archives
-      weight: 3
+      weight: 2
     - identifier: about
       name: About
       url: about
-      weight: 4
+      weight: 3
     - identifier: contact
       name: Contact
       url: contact
-      weight: 5
+      weight: 4
 
 disableKinds:
   - taxonomy
