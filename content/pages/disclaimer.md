@@ -41,4 +41,4 @@ This Site may include content from guest contributors, and any views or opinions
 All logos and trademarks of third parties referenced on [emmysteven.com](/) are the trademarks and logos of their respective owners. Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement, or sponsorship of Emmy Steven by such owners.
 
 ### CONTACT US
-Should you have any feedback, comments, requests for technical support, or other inquiries, don't hesitate to get in touch with us by email: support@emmysteven.com.
+Should you have any feedback, comments, requests for technical support, or other inquiries, don't hesitate to [get in touch with me](/contact)
