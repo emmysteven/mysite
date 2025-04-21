@@ -5,7 +5,7 @@ theme: ["PaperMod"]
 rssLimit: 25
 
 pagination:
-  pagerSize: 10
+  pagerSize: 5
 
 permalinks:
   blog: /:slug/
