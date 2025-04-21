@@ -10,7 +10,7 @@ alt = 'Web2 Marketing vs Web3 Marketing | emmysteven.com'
 caption = 'Web2 Marketing vs Web3 Marketing'
 +++
 
-People love to say Web2 and Web3 marketing are nothing alike.
+People love to say Web2 and [Web3 marketing](https://www.singular.net/glossary/web3-marketing/) are nothing alike.
 
 They’re wrong. Here's why.
 
@@ -31,7 +31,7 @@ The human brain hasn’t changed.
 
 Whether you're using email newsletters in Web2 or token-gated Discord communities in Web3, your goal is the same: move someone from *"what is this"* to *"I need this."*
 
-Web3 marketing didn’t rewrite the rules. It simply added more levers:
+[Web3 marketing](https://www.shopify.com/ng/blog/web3-marketing) didn’t rewrite the rules. It simply added more levers:
 
 - Narrative-driven campaigns
 - Token incentives
@@ -58,7 +58,7 @@ If your Web2 product is good and your funnel is optimized, scaling becomes a pro
 
 ## Web3 Marketing: Wild West with a Playbook
 
-Web3 marketing operates in a different cultural and technical environment. The community is younger, more skeptical, and highly active on platforms like 𝕏 (formerly Twitter), Discord, Reddit, and Telegram.
+[Web3 marketing](https://www.lunarstrategy.com/article/web3-marketing-strategies) operates in a different cultural and technical environment. The community is younger, more skeptical, and highly active on platforms like 𝕏 (formerly Twitter), Discord, Reddit, and Telegram.
 
 You’re not just marketing a product; you’re inviting people to participate in a movement. That’s where narratives, community-led growth, and token-based incentives shine.
 
