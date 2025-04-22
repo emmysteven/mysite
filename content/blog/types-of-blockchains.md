@@ -3,7 +3,7 @@ title = 'Types of Blockchains'
 slug = 'types-of-blockchains'
 date = 2024-08-20T09:30:05+01:00
 description = 'Explore the different types of blockchains—public, private, consortium, and hybrid—and learn how each one works, their real-world applications, and what makes them unique.'
-draft = true
+draft = false
 [cover]
 image = 'img/00-types-of-blockchains.webp'
 alt = 'Types of Blockchains | emmysteven.com'
