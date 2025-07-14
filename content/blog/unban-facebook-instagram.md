@@ -1,5 +1,5 @@
 +++
-title = 'Unban Facebook Instagram'
+title = 'How To Unban Your Facebook/Instagram Account'
 slug = 'unban-facebook-instagram'
 date = 2025-06-10T16:43:45+01:00
 draft = false
