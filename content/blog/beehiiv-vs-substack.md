@@ -1,7 +1,7 @@
 +++
 title = 'Beehiiv vs Substack'
 slug = 'beehiiv-vs-substack'
-date = 2025-02-10T06:08:25+01:00
+date = 2025-01-15T06:08:25+01:00
 draft = false
 description = 'Compare Beehiiv and Substack to find the best newsletter platform for your needs. Explore features, pricing, and monetization options'
 [cover]

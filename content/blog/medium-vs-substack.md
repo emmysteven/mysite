@@ -1,7 +1,7 @@
 +++
 title = 'Medium vs Substack'
 slug = 'medium-vs-substack'
-date = 2024-07-20T16:08:25+01:00
+date = 2024-11-15T16:08:25+01:00
 description = 'Uncover which platform suits you best: Medium or Substack? Learn about their unique benefits, monetization options, and impact on your writing career.'
 draft = false
 authors = ["Emmy Steven"]

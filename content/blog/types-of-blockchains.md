@@ -1,7 +1,7 @@
 +++
 title = 'Types of Blockchains'
 slug = 'types-of-blockchains'
-date = 2024-08-20T09:30:05+01:00
+date = 2025-06-15T09:30:05+01:00
 description = 'Explore the different types of blockchains—public, private, consortium, and hybrid—and learn how each one works, their real-world applications, and what makes them unique.'
 draft = false
 [cover]
@@ -196,7 +196,7 @@ Four prevalent categories of blockchain: public, private, hybrid, and consortium
 What are the main components of blockchain technology? Blockchain is made up of five different layers: hardware infrastructure, data, network, consensus, and application layers. These layers manage tasks ranging from data storage to applications used by users
 <br/>
 
-*Can a blockchain be hacked?*
+**Can a blockchain be hacked?**
 How is a Blockchain Vulnerable to Attacks? An individual or a group of individuals might dominate a blockchain by wielding control over most of its computational strength, referred to as its hashrate. If they control over 50% of the hashrate, they can present a modified blockchain in a scenario known as a 51% attack
 <br/>
 

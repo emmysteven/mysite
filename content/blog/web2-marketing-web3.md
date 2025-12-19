@@ -1,7 +1,7 @@
 +++
 title = 'Web2 Marketing vs Web3 Marketing'
 slug = 'web2-marketing-web3'
-date = 2024-12-20T08:00:00+00:00
+date = 2025-09-15T08:00:00+00:00
 description = 'Explore the core differences and similarities between Web2 and Web3 marketing strategies, and how to thrive in the evolving digital landscape.'
 draft = false
 [cover]

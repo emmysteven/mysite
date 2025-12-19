@@ -1,7 +1,7 @@
 +++
 title = 'Why You Never Change'
 slug = 'why-you-never-change'
-date = 2025-01-10T16:08:25+01:00
+date = 2025-11-15T16:08:25+01:00
 draft = false
 description = 'Change is hard, but staying the same is harder. Here’s why discomfort is often the push you need to grow and move forward in life.'
 [cover]
