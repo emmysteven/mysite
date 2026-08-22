@@ -14,8 +14,8 @@ caption = 'Socials'
 relative = true
 +++
 
-- [YouTube](youtube.com/@emmysteven)
-- [TikTok](tiktok.com/@emmysteven)
+- [YouTube](https://youtube.com/@emmysteven)
+- [TikTok](https://tiktok.com/@emmysteven)
 
 ### Community
 - [Join us](https://discord.gg/mFcGjQB4)
