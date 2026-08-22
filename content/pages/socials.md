@@ -16,20 +16,11 @@ relative = true
 
 <br/>
 
+### Socials
+- [YouTube](youtube.com/@emmysteven)
+- [TikTok](tiktok.com/@emmysteven)
+
 ### Community
 - [Join us](https://discord.gg/mFcGjQB4)
-
-### Socials
-- [TikTok](https://tiktok.com/@emmysteven)
-- [YouTube](https://youtube.com/@emmysteven)
-
-- [Instagram](https://instagram.com/emmysteven_)
-- [Facebook](https://facebook.com/emmystevenx)
-
-- [Twitch](https://twitch.tv/emmysteven)
-- [Kick](https://kick.com/emmysteven)
-
-- [X(Twitter)](https://x.com/emmystevenx)
-- [LinkedIn](https://linkedin.com/in/emmysteven)
 
 <br/>
