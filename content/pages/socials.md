@@ -21,20 +21,15 @@ relative = true
 
 ### Socials
 - [TikTok](https://tiktok.com/@emmysteven)
+- [YouTube](https://youtube.com/@emmysteven)
+
 - [Instagram](https://instagram.com/emmysteven_)
 - [Facebook](https://facebook.com/emmystevenx)
-- [X(Twitter)](https://x.com/emmystevenx)
-- [LinkedIn](https://linkedin.com/in/emmysteven)
 
-### Streaming
-- [YouTube](https://youtube.com/@emmysteven)
 - [Twitch](https://twitch.tv/emmysteven)
 - [Kick](https://kick.com/emmysteven)
 
-### Others
-- [Pinterest](https://www.pinterest.com/emmystevenx/)
-- [GitHub](https://www.github.com/emmysteven/)
-- [Reddit](https://www.reddit.com/user/emmysteven/)
-- [Quora](https://www.quora.com/profile/Emmy-Steven)
+- [X(Twitter)](https://x.com/emmystevenx)
+- [LinkedIn](https://linkedin.com/in/emmysteven)
 
 <br/>
